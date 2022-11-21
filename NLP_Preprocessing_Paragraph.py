@@ -33,7 +33,6 @@ paragraph_input = "Here we will implement the Polynomial Regression using Python
             "Polynomial Regression model with the Simple Linear Regression model. So first, let's understand the " \
             "problem for which we are going to build the model. "
 
-process_paragraph(paragraph_input)
 result = process_paragraph(paragraph_input)
 
 for i in range(len(result)):
